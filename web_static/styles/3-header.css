@@ -1,0 +1,10 @@
+header{
+    background-color:white;
+    height: 70px;
+    width:100%;
+    border-bottom: 1px #CCC solid;
+    margin: auto;
+}
+header div{
+    padding: 5px;
+}
