@@ -1,1 +1,1 @@
-Front end side of the airbnb clone project
+This directory implements webpage design.
